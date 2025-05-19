@@ -17,8 +17,8 @@ A lightweight FHIR data processing solution using Azure's free tier services. Th
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd azure
+   git clone https://github.com/jamesleocodes/azure-projects.git)
+   cd FHIR-processor
    ```
 
 2. **Install dependencies**
